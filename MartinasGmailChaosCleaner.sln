@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartinasGmailChaosCleaner", "MartinasGmailChaosCleaner\MartinasGmailChaosCleaner.csproj", "{0B0BF20B-6C5D-4622-923A-DA643EC0736E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B0BF20B-6C5D-4622-923A-DA643EC0736E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0BF20B-6C5D-4622-923A-DA643EC0736E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0BF20B-6C5D-4622-923A-DA643EC0736E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0BF20B-6C5D-4622-923A-DA643EC0736E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DCF2AD0-4DF0-4032-8370-B901B9795696}
+	EndGlobalSection
+EndGlobal
